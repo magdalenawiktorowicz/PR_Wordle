@@ -102,7 +102,7 @@ public class Modelo
 	
 	public void ayuda()
 	{
-		goToURL("file:///C:/Users/madzi/eclipse-workspace/Workspace/WordleNew/ayuda/ayuda.html");
+		goToURL("file:///C:/Users/madzi/eclipse-workspace/Workspace/WordleNew/ayuda/ayuda.html"); 
 	}
 
 	private void goToURL(String URL)

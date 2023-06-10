@@ -51,7 +51,7 @@ public class Controlador implements WindowListener, ActionListener, ItemListener
 		// cuando estamos en vistaMainMenu
 		if (vistaMainMenu != null && vistaMainMenu.isActive())
 		{
-			// al pulsar el botón de nuevo juego
+			// al pulsar el botón de nuevo juego  
 			if (e.getSource().equals(vistaMainMenu.btnNewGame))
 			{
 				// Acción para el botón "NEW GAME" - instanciar la vistaEntre & añadir los listeners
